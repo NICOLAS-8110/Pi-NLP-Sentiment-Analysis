@@ -61,6 +61,7 @@ Con un **F1 Score de 0.88** y un **ROC-AUC de 0.95** en el conjunto de prueba, l
 
 ## 📂 Archivos Principales
 * `Proyecto_Pi_Clasificación_de_Sentimientos_IMDb.ipynb`
+* `imdb_reviews.tsv`
 
 ## 🏁 Conclusión
 Se desarrolló con éxito un clasificador automático de sentimientos para **Film Junky Union** basado en **NLTK, TF-IDF y Regresión Logística**, alcanzando un **F1 Score de 0.88** y un **ROC-AUC de 0.95** sobre datos no vistos. La solución supera el requisito técnico (`F1 ≥ 0.85`) y brinda una herramienta rápida, escalable y económica para filtrar reseñas negativas en la plataforma.de opiniones, moderación de contenido y análisis de satisfacción de usuarios.
